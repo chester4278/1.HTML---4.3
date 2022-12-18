@@ -1,0 +1,10 @@
+.services {
+  width: 1260px;
+  margin: 0 auto;
+}
+.card {
+  padding: 160px 30px 30px;
+  width: 420px;
+  text-align: center;
+   box-sizing: border-box;
+}
